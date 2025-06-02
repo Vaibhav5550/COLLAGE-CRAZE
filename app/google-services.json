@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232146159710",
+    "project_id": "collagecraze",
+    "storage_bucket": "collagecraze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232146159710:android:2cd2fd38d85d4ce9d74ccf",
+        "android_client_info": {
+          "package_name": "com.event.collegecraze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8b0yh3YFZVbP_cEg2jEAfkeHtTCf2hlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
